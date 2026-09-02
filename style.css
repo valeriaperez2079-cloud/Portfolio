@@ -4,3 +4,6 @@ body { background-color: #F7F1E3;
      }
 h1 { color: #2B1B36; }
 p {line-height: 1.6; }
+main { max-width: 900px;
+      margin: 0 auto;
+     }
