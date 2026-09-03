@@ -7,3 +7,6 @@ p {line-height: 1.6; }
 main { max-width: 900px;
       margin: 0 auto;
      }
+#hero { padding: 80px; }
+#hero h1 { font-size: 60px; margin-bottom: 10px }
+#hero p { font-size: 20px; }
